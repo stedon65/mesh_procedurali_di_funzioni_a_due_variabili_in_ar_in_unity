@@ -13,6 +13,4 @@ In questo demo uso due funzioni a due variabili $z=f(xy)$:
 
 Le mesh generate sono semi-superfici rispetto all'asse x per poter meglio apprezzare l'interno della mesh stessa.
 
-### Video
-
-[![](https://dl.dropboxusercontent.com/s/vgaf2zhp2qlmld2jle8hd/ar_mesh.png?dl=1)](https://dl.dropboxusercontent.com/s/z2jpu3cbdkdjgc0ydlvzm/ar_mesh.mp4?dl=0)
+[Video](https://github.com/stedon65/mesh_procedurali_di_funzioni_a_due_variabili_in_ar_in_unity/blob/main/Video.md)
