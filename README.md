@@ -6,9 +6,9 @@ Dal punto di vista della modellazione tridimensionale l'aspetto interessante del
 In questo senso l'approccio interattivo con, ad esempio, dei modelli di superfici matematiche fornisce un'esperienza completamente nuova e diversa rispetto al passato.
 Non è difficile immaginare dei tool che permettano di progettare modeli 3D complessi, in realtà aumentata, partendo da primitive come ad esempio delle semplici superfici matematiche come mostro in questo semplice esempio.
 
-In questo demo uso due funzioni a due variabili $$z=f(xy)$$
+In questo demo uso due funzioni a due variabili $z=f(xy)$
 
-### 1) $$z=x^2 + y^2$$
-### 2) $$z=2^{-(x^2 + y^2)}$$
+### $$z=x^2 + y^2$$
+### $$z=2^{-(x^2 + y^2)}$$
 
 Le mesh generate sono semi-superfici rispetto all'asse x per poter meglio apprezzare l'interno della mesh stessa.
